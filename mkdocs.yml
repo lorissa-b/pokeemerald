@@ -1,0 +1,10 @@
+site_name: Pokemerald
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+
+watch:
+  - docs
