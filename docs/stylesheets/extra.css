@@ -1,0 +1,10 @@
+.tables-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.tables-row table {
+  flex: 1;
+}

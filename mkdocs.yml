@@ -2,9 +2,16 @@ site_name: Pokemerald
 
 theme:
   name: readthedocs
+  custom_dir: overrides
 
 nav:
   - Home: index.md
+  - Pokedex: pokedex.md
+  - Towns and Routes: towns-and-routes.md
+  - Other Changes: other-changes.md
+
+extra_css:
+  - stylesheets/extra.css
 
 watch:
   - docs
