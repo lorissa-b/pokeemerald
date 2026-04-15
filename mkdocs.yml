@@ -2,7 +2,6 @@ site_name: Pokemerald
 
 theme:
   name: readthedocs
-  custom_dir: overrides
 
 nav:
   - Home: index.md
