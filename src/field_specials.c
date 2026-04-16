@@ -64,6 +64,7 @@
 #include "constants/battle_frontier.h"
 #include "constants/weather.h"
 #include "constants/metatile_labels.h"
+#include "constants/wild_encounter.h"
 #include "palette.h"
 
 #define TAG_ITEM_ICON 5500
@@ -4267,4 +4268,19 @@ void SetPlayerGotFirstFans(void)
 u8 Script_TryGainNewFanFromCounter(void)
 {
     return TryGainNewFanFromCounter(gSpecialVar_0x8004);
+}
+
+void Special_SetTimeOfDay(void)
+{
+    u8 hours = gLocalTime.hours;
+    u16 timeOfDay;
+    if (hours >= 5 && hours < 10)
+        timeOfDay = TIME_OF_DAY_MORNING;
+    else if (hours >= 10 && hours < 17)
+        timeOfDay = TIME_OF_DAY_DAY;
+    else if (hours >= 17 && hours < 22)
+        timeOfDay = TIME_OF_DAY_EVENING;
+    else
+        timeOfDay = TIME_OF_DAY_NIGHT;
+    VarSet(VAR_TIME_OF_DAY, timeOfDay);
 }

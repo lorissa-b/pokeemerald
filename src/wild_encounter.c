@@ -3,6 +3,7 @@
 #include "battle_pike.h"
 #include "battle_pyramid.h"
 #include "event_data.h"
+#include "field_specials.h"
 #include "fieldmap.h"
 #include "field_player_avatar.h"
 #include "link.h"
@@ -549,6 +550,20 @@ static bool8 AreLegendariesInSootopolisPreventingEncounters(void)
     return FlagGet(FLAG_LEGENDARIES_IN_SOOTOPOLIS);
 }
 
+static const struct WildPokemonInfo *GetLandMonsForTimeOfDay(const struct WildPokemonHeader *header)
+{
+    if (header->morningMonsInfo == NULL)
+        return header->landMonsInfo;
+    Special_SetTimeOfDay();
+    switch (VarGet(VAR_TIME_OF_DAY))
+    {
+    case TIME_OF_DAY_MORNING: return header->morningMonsInfo;
+    case TIME_OF_DAY_DAY:     return header->dayMonsInfo;
+    case TIME_OF_DAY_EVENING: return header->eveningMonsInfo;
+    default:                  return header->nightMonsInfo;
+    }
+}
+
 bool8 StandardWildEncounter(u16 curMetatileBehavior, u16 prevMetatileBehavior)
 {
     u16 headerId;
@@ -594,11 +609,11 @@ bool8 StandardWildEncounter(u16 curMetatileBehavior, u16 prevMetatileBehavior)
     {
         if (MetatileBehavior_IsLandWildEncounter(curMetatileBehavior) == TRUE)
         {
-            if (gWildMonHeaders[headerId].landMonsInfo == NULL)
+            if (GetLandMonsForTimeOfDay(&gWildMonHeaders[headerId]) == NULL)
                 return FALSE;
             else if (prevMetatileBehavior != curMetatileBehavior && !AllowWildCheckOnNewMetatile())
                 return FALSE;
-            else if (WildEncounterCheck(gWildMonHeaders[headerId].landMonsInfo->encounterRate, FALSE) != TRUE)
+            else if (WildEncounterCheck(GetLandMonsForTimeOfDay(&gWildMonHeaders[headerId])->encounterRate, FALSE) != TRUE)
                 return FALSE;
 
             if (TryStartRoamerEncounter() == TRUE)
@@ -619,7 +634,7 @@ bool8 StandardWildEncounter(u16 curMetatileBehavior, u16 prevMetatileBehavior)
                 }
 
                 // try a regular wild land encounter
-                if (TryGenerateWildMon(gWildMonHeaders[headerId].landMonsInfo, WILD_AREA_LAND, WILD_CHECK_REPEL | WILD_CHECK_KEEN_EYE) == TRUE)
+                if (TryGenerateWildMon(GetLandMonsForTimeOfDay(&gWildMonHeaders[headerId]), WILD_AREA_LAND, WILD_CHECK_REPEL | WILD_CHECK_KEEN_EYE) == TRUE)
                 {
                     BattleSetup_StartWildBattle();
                     return TRUE;
@@ -728,7 +743,7 @@ bool8 SweetScentWildEncounter(void)
     {
         if (MetatileBehavior_IsLandWildEncounter(MapGridGetMetatileBehaviorAt(x, y)) == TRUE)
         {
-            if (gWildMonHeaders[headerId].landMonsInfo == NULL)
+            if (GetLandMonsForTimeOfDay(&gWildMonHeaders[headerId]) == NULL)
                 return FALSE;
 
             if (TryStartRoamerEncounter() == TRUE)
@@ -740,7 +755,7 @@ bool8 SweetScentWildEncounter(void)
             if (DoMassOutbreakEncounterTest() == TRUE)
                 SetUpMassOutbreakEncounter(0);
             else
-                TryGenerateWildMon(gWildMonHeaders[headerId].landMonsInfo, WILD_AREA_LAND, 0);
+                TryGenerateWildMon(GetLandMonsForTimeOfDay(&gWildMonHeaders[headerId]), WILD_AREA_LAND, 0);
 
             BattleSetup_StartWildBattle();
             return TRUE;
@@ -807,7 +822,7 @@ u16 GetLocalWildMon(bool8 *isWaterMon)
     headerId = GetCurrentMapWildMonHeaderId();
     if (headerId == HEADER_NONE)
         return SPECIES_NONE;
-    landMonsInfo = gWildMonHeaders[headerId].landMonsInfo;
+    landMonsInfo = GetLandMonsForTimeOfDay(&gWildMonHeaders[headerId]);
     waterMonsInfo = gWildMonHeaders[headerId].waterMonsInfo;
     // Neither
     if (landMonsInfo == NULL && waterMonsInfo == NULL)

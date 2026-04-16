@@ -8,4 +8,9 @@
 
 #define NUM_ALTERING_CAVE_TABLES 9
 
+#define TIME_OF_DAY_MORNING  0  // 5am - 10am
+#define TIME_OF_DAY_DAY      1  // 10am - 5pm
+#define TIME_OF_DAY_EVENING  2  // 5pm - 10pm
+#define TIME_OF_DAY_NIGHT    3  // 10pm - 5am
+
 #endif // GUARD_CONSTANTS_WILD_ENCOUNTER_H
