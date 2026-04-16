@@ -7,6 +7,7 @@ nav:
   - Home: index.md
   - Pokedex: pokedex.md
   - Towns and Routes: towns-and-routes.md
+  - Move Changes: moves.md
   - Other Changes: other-changes.md
 
 extra_css:
