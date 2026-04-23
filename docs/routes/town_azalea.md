@@ -2,8 +2,8 @@
 
 Connects to:
 
-- [Route 33 (E)](routes/route33.md)
-- [Slowpoke Well](routes/landmark_slowpokewell.md)
+- [Route 33 (E)](route33.md)
+- [Slowpoke Well](landmark_slowpokewell.md)
 - Ilex Forest (W)
 
 ## Encounters

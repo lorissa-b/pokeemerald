@@ -2,9 +2,9 @@
 
 Connects to:
 
-- [Route 31](routes/route31.md)
+- [Route 31](route31.md)
 - [Route 45]
-- [Route 46](routes/route46.md)
+- [Route 46](route46.md)
 
 ## Route 31 Side
 ### Encounters

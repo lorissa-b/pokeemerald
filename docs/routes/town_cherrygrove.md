@@ -2,8 +2,8 @@
 
 Connects to:
 
-- [Route 30 (N)](routes/route30.md)
-- [Route 29 (E)](routes/route28.md)
+- [Route 30 (N)](route30.md)
+- [Route 29 (E)](route29.md)
 
 ## Encounters
 ### Surfing

@@ -2,9 +2,9 @@
 
 Connects to:
 
-- [Route 46 (N)](routes/route46.md)
-- [New Bark Town (E)](routes/town_newbark.md)
-- [Cherrygrove City (W)](routes/town_cherrygrove.md)
+- [Route 46 (N)](route46.md)
+- [New Bark Town (E)](town_newbark.md)
+- [Cherrygrove City (W)](town_cherrygrove.md)
 
 ## Encounters
 ### Grass

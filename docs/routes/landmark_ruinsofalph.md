@@ -2,8 +2,8 @@
 
 Connects to:
 
-- [Route 36 (N)](routes/route36.md)
-- [Route 32 (E)](routes/route32.md)
+- [Route 36 (N)](route36.md)
+- [Route 32 (E)](route32.md)
 
 ## Encounters
 ### Grass

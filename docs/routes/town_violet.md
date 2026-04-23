@@ -2,10 +2,10 @@
 
 Connects to:
 
-- [Route 31 (E)](routes/route31.md)
-- [Route 32 (S)](routes/route32.md)
-- [Route 36 (W)](routes/route36.md)
-- [Sprout Tower](routes/landmark_sprouttower.md)
+- [Route 31 (E)](route31.md)
+- [Route 32 (S)](route32.md)
+- [Route 36 (W)](route36.md)
+- [Sprout Tower](landmark_sprouttower.md)
 
 ## Encounters
 ### Surfing

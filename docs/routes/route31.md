@@ -2,9 +2,9 @@
 
 Connects to:
 
-- [Dark Cave (N)](routes/landmark_darkcave.md)
-- [Route 30 (S)](routes/route30.md)
-- [Violet City (W)](routes/town_violet.md)
+- [Dark Cave (N)](landmark_darkcave.md)
+- [Route 30 (S)](route30.md)
+- [Violet City (W)](town_violet.md)
 
 ## Encounters
 ### Grass

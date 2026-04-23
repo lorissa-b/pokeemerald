@@ -2,9 +2,9 @@
 
 Connects to:
 
-- [Violet City (N)](routes/town_violet.md)
-- [Union Cave (S)](routes/landmark_unioncave.md)
-- [Ruins of Alph (W)](routes/landmark_ruinsofalph.md)
+- [Violet City (N)](town_violet.md)
+- [Union Cave (S)](landmark_unioncave.md)
+- [Ruins of Alph (W)](landmark_ruinsofalph.md)
 
 ## Encounters
 ### Grass

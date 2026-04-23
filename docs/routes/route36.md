@@ -3,9 +3,9 @@
 Connects to:
 
 - Route 37 (N)
-- [Violet City (E)](routes/town_violet.md)
+- [Violet City (E)](town_violet.md)
 - [Route 35 (S)]
-- [Ruins of Alph (S)](routes/landmark_ruinsofalph.md)
+- [Ruins of Alph (S)](landmark_ruinsofalph.md)
 - [National Park (W)]
 
 ## Encounters

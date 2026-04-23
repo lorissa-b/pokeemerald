@@ -2,7 +2,7 @@
 
 Connects to:
 
-- [Azalea Town](routes/town_azalea.md)
+- [Azalea Town](town_azalea.md)
 
 ## B1F
 ### Encounters

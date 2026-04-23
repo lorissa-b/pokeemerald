@@ -3,7 +3,7 @@
 Connects to:
 
 - Route 27 (E)
-- [Route 29 (W)](routes/route29.md)
+- [Route 29 (W)](route29.md)
 
 ## Encounters
 ### Surfing

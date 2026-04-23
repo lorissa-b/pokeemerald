@@ -1,9 +1,9 @@
 # Route 46
 
 Connects to:
-- [Dark Cave (N)](routes/landmark_darkcave.md)
+- [Dark Cave (N)](landmark_darkcave.md)
 - Route 45 (E)
-- [Route 29 (S)](routes/route29.md)
+- [Route 29 (S)](route29.md)
 
 ## Encounters
 ### Grass

@@ -2,8 +2,8 @@
 
 Connects to:
 
-- [Union Cave (N)](routes/landmark_unioncave.md)
-- [Azalea Town (W)](routes/town_azalea.md)
+- [Union Cave (N)](landmark_unioncave.md)
+- [Azalea Town (W)](town_azalea.md)
 
 ## Encounters
 ### Grass

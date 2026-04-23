@@ -2,8 +2,8 @@
 
 Connects to:
 
-- [Route 31 (N)](routes/route31.md)
-- [Cherrygrove City (S)](routes/town_cherrygrove.md)
+- [Route 31 (N)](route31.md)
+- [Cherrygrove City (S)](town_cherrygrove.md)
 
 ## Encounters
 ### Grass

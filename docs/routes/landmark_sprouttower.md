@@ -2,7 +2,7 @@
 
 Connects to:
 
-- [Violet City](routes/town_violet.md)
+- [Violet City](town_violet.md)
 
 ## First Floor
 

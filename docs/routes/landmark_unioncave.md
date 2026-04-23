@@ -2,8 +2,8 @@
 
 Connects to:
 
-- [Route 32](routes/route32.md)
-- [Route 33](routes/route33.md)
+- [Route 32](route32.md)
+- [Route 33](route33.md)
 
 ## 1F
 ### Encounters
