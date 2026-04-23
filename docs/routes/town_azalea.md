@@ -9,9 +9,9 @@ Connects to:
 ## Encounters
 ### Headbutt
 
-| Pokemon   |
-|-----------|
-| Pineco    |
-| Paras     |
-| Silcoon   |
-| Cascoon   |
+|                                               | Pokemon |
+| --------------------------------------------- | ------- |
+| ![](../../graphics/pokemon/pineco/front.png)  | Pineco  |
+| ![](../../graphics/pokemon/paras/front.png)   | Paras   |
+| ![](../../graphics/pokemon/silcoon/front.png) | Silcoon |
+| ![](../../graphics/pokemon/cascoon/front.png) | Cascoon |

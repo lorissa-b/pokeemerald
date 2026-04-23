@@ -9,17 +9,17 @@ Connects to:
 ## Encounters
 ### Grass
 
-| Pokemon  | Morn | Day | Eve | Night |
-|----------|------|-----|-----|-------|
-| Pidgey   | Y    | Y   | Y   |       |
-| Hoppip   | Y    | Y   |     |       |
-| Sentret  | Y    | Y   | Y   |       |
-| Sunkern  | Y    | Y   |     |       |
-| Ledyba   | Y    | Y   |     |       |
-| Hoothoot |      |     | Y   | Y     |
-| Rattata  |      |     | Y   | Y     |
-| Meowth   |      |     | Y   | Y     |
-| Zubat    |      |     | Y   | Y     |
-| Gastly   |      |     |     | Y     |
+|                                                | Pokemon  | Morn | Day | Eve | Night |
+| ---------------------------------------------- | -------- | ---- | --- | --- | ----- |
+| ![](../../graphics/pokemon/pidgey/front.png)   | Pidgey   | Y    | Y   | Y   |       |
+| ![](../../graphics/pokemon/hoppip/front.png)   | Hoppip   | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/sentret/front.png)  | Sentret  | Y    | Y   | Y   |       |
+| ![](../../graphics/pokemon/sunkern/front.png)  | Sunkern  | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/ledyba/front.png)   | Ledyba   | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/hoothoot/front.png) | Hoothoot |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/rattata/front.png)  | Rattata  |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/meowth/front.png)   | Meowth   |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/zubat/front.png)    | Zubat    |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/gastly/front.png)   | Gastly   |      |     |     | Y     |
 
 ### Headbutt

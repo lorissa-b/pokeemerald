@@ -9,21 +9,21 @@ Connects to:
 ## Second Floor
 ### Encounters
 
-| Pokemon    |
-|------------|
-| Bellsprout |
-| Hoppip     |
-| Sunkern    |
-| Paras      |
-| Shroomish  |
+|                                                  | Pokemon    |
+| ------------------------------------------------ | ---------- |
+| ![](../../graphics/pokemon/bellsprout/front.png) | Bellsprout |
+| ![](../../graphics/pokemon/hoppip/front.png)     | Hoppip     |
+| ![](../../graphics/pokemon/sunkern/front.png)    | Sunkern    |
+| ![](../../graphics/pokemon/paras/front.png)      | Paras      |
+| ![](../../graphics/pokemon/shroomish/front.png)  | Shroomish  |
 
 ## Third Floor
 ### Encounters
 
-| Pokemon    |
-|------------|
-| Bellsprout |
-| Hoppip     |
-| Sunkern    |
-| Paras      |
-| Shroomish  |
+|                                                  | Pokemon    |
+| ------------------------------------------------ | ---------- |
+| ![](../../graphics/pokemon/bellsprout/front.png) | Bellsprout |
+| ![](../../graphics/pokemon/hoppip/front.png)     | Hoppip     |
+| ![](../../graphics/pokemon/sunkern/front.png)    | Sunkern    |
+| ![](../../graphics/pokemon/paras/front.png)      | Paras      |
+| ![](../../graphics/pokemon/shroomish/front.png)  | Shroomish  |

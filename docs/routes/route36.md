@@ -11,33 +11,33 @@ Connects to:
 ## Encounters
 ### Grass
 
-| Pokemon    | Morn | Day | Eve | Night |
-|------------|------|-----|-----|-------|
-| Pidgey     | Y    | Y   |     |       |
-| Nidoran F  | Y    | Y   | Y   | Y     |
-| Nidoran M  | Y    | Y   | Y   | Y     |
-| Growlithe  | Y    | Y   |     |       |
-| Bellsprout | Y    | Y   |     |       |
-| Ledyba     | Y    |     |     |       |
-| Caterpie   |      | Y   |     |       |
-| Vulpix     |      |     | Y   | Y     |
-| Oddish     |      |     | Y   | Y     |
-| Weedle     |      |     | Y   |       |
-| Hoothoot   |      |     | Y   | Y     |
-| Spinarak   |      |     |     | Y     |
+|                                                  | Pokemon    | Morn | Day | Eve | Night |
+| ------------------------------------------------ | ---------- | ---- | --- | --- | ----- |
+| ![](../../graphics/pokemon/pidgey/front.png)     | Pidgey     | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/nidoran_f/front.png)  | Nidoran F  | Y    | Y   | Y   | Y     |
+| ![](../../graphics/pokemon/nidoran_m/front.png)  | Nidoran M  | Y    | Y   | Y   | Y     |
+| ![](../../graphics/pokemon/growlithe/front.png)  | Growlithe  | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/bellsprout/front.png) | Bellsprout | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/ledyba/front.png)     | Ledyba     | Y    |     |     |       |
+| ![](../../graphics/pokemon/caterpie/front.png)   | Caterpie   |      | Y   |     |       |
+| ![](../../graphics/pokemon/vulpix/front.png)     | Vulpix     |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/oddish/front.png)     | Oddish     |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/weedle/front.png)     | Weedle     |      |     | Y   |       |
+| ![](../../graphics/pokemon/hoothoot/front.png)   | Hoothoot   |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/spinarak/front.png)   | Spinarak   |      |     |     | Y     |
 
 ### Headbutt
 
-| Pokemon   |
-|-----------|
-| Pineco    |
-| Seedot    |
-| Aipom     |
-| Silcoon   |
-| Cascoon   |
+|                                               | Pokemon |
+| --------------------------------------------- | ------- |
+| ![](../../graphics/pokemon/pineco/front.png)  | Pineco  |
+| ![](../../graphics/pokemon/seedot/front.png)  | Seedot  |
+| ![](../../graphics/pokemon/aipom/front.png)   | Aipom   |
+| ![](../../graphics/pokemon/silcoon/front.png) | Silcoon |
+| ![](../../graphics/pokemon/cascoon/front.png) | Cascoon |
 
 ### Special
 
-| Pokemon    | Condition    |
-|------------|--------------|
-| Sudowoodo  | Watering Can |
+|                                                 | Pokemon   | Condition    |
+| ----------------------------------------------- | --------- | ------------ |
+| ![](../../graphics/pokemon/sudowoodo/front.png) | Sudowoodo | Watering Can |

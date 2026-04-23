@@ -8,26 +8,26 @@ Connects to:
 ## Encounters
 ### Grass
 
-| Pokemon    | Morn | Day | Eve | Night |
-|------------|------|-----|-----|-------|
-| Spearow    | Y    | Y   |     |       |
-| Sentret    | Y    | Y   |     |       |
-| Phanpy     | Y    |     | Y   |       |
-| Geodude    | Y    | Y   | Y   | Y     |
-| Makuhita   | Y    | Y   | Y   |       |
-| Mankey     |      | Y   |     | Y     |
-| Spinda     |      | Y   |     |       |
-| Hoothoot   |      |     | Y   | Y     |
-| Rattata    |      |     | Y   | Y     |
-| Spoink     |      |     | Y   |       |
-| Clefairy   |      |     |     | Y     |
-| Machop     |      |     |     | Y     |
+|                                                | Pokemon  | Morn | Day | Eve | Night |
+| ---------------------------------------------- | -------- | ---- | --- | --- | ----- |
+| ![](../../graphics/pokemon/spearow/front.png)  | Spearow  | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/sentret/front.png)  | Sentret  | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/phanpy/front.png)   | Phanpy   | Y    |     | Y   |       |
+| ![](../../graphics/pokemon/geodude/front.png)  | Geodude  | Y    | Y   | Y   | Y     |
+| ![](../../graphics/pokemon/makuhita/front.png) | Makuhita | Y    | Y   | Y   |       |
+| ![](../../graphics/pokemon/mankey/front.png)   | Mankey   |      | Y   |     | Y     |
+| ![](../../graphics/pokemon/spinda/front.png)   | Spinda   |      | Y   |     |       |
+| ![](../../graphics/pokemon/hoothoot/front.png) | Hoothoot |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/rattata/front.png)  | Rattata  |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/spoink/front.png)   | Spoink   |      |     | Y   |       |
+| ![](../../graphics/pokemon/clefairy/front.png) | Clefairy |      |     |     | Y     |
+| ![](../../graphics/pokemon/machop/front.png)   | Machop   |      |     |     | Y     |
 
 ### Headbutt
 
-| Pokemon   |
-|-----------|
-| Venonat   |
-| Spinarak  |
-| Silcoon   |
-| Cascoon   |
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/venonat/front.png)  | Venonat  |
+| ![](../../graphics/pokemon/spinarak/front.png) | Spinarak |
+| ![](../../graphics/pokemon/silcoon/front.png)  | Silcoon  |
+| ![](../../graphics/pokemon/cascoon/front.png)  | Cascoon  |

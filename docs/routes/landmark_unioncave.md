@@ -9,67 +9,67 @@ Connects to:
 ### Encounters
 #### Cave
 
-| Pokemon   |
-|-----------|
-| Sandshrew |
-| Diglett   |
-| Aron      |
-| Paras     |
-| Zubat     |
-| Geodude   |
-| Whismur   |
+|                                                 | Pokemon   |
+| ----------------------------------------------- | --------- |
+| ![](../../graphics/pokemon/sandshrew/front.png) | Sandshrew |
+| ![](../../graphics/pokemon/diglett/front.png)   | Diglett   |
+| ![](../../graphics/pokemon/aron/front.png)      | Aron      |
+| ![](../../graphics/pokemon/paras/front.png)     | Paras     |
+| ![](../../graphics/pokemon/zubat/front.png)     | Zubat     |
+| ![](../../graphics/pokemon/geodude/front.png)   | Geodude   |
+| ![](../../graphics/pokemon/whismur/front.png)   | Whismur   |
 
 #### Surfing
-| Pokemon   |
-|-----------|
-| Remoraid  |
-| Chinchou  |
-| Wooper    |
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/remoraid/front.png) | Remoraid |
+| ![](../../graphics/pokemon/chinchou/front.png) | Chinchou |
+| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   |
 
 #### Fishing
 
-| Pokemon   |
-|-----------|
-| Magikarp  |
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/magikarp/front.png) | Magikarp |
 
 #### Rock Smash
 
-| Pokemon   |
-|-----------|
-| Geodude   |
+|                                               | Pokemon |
+| --------------------------------------------- | ------- |
+| ![](../../graphics/pokemon/geodude/front.png) | Geodude |
 
 ## B1F
 ### Encounters
 #### Cave
 
-| Pokemon   |
-|-----------|
-| Zubat     |
-| Geodude   |
-| Onix      |
-| Aron      |
-| Machop    |
-| Whismur   |
+|                                               | Pokemon |
+| --------------------------------------------- | ------- |
+| ![](../../graphics/pokemon/zubat/front.png)   | Zubat   |
+| ![](../../graphics/pokemon/geodude/front.png) | Geodude |
+| ![](../../graphics/pokemon/onix/front.png)    | Onix    |
+| ![](../../graphics/pokemon/aron/front.png)    | Aron    |
+| ![](../../graphics/pokemon/machop/front.png)  | Machop  |
+| ![](../../graphics/pokemon/whismur/front.png) | Whismur |
 
 #### Surfing
 
-| Pokemon   |
-|-----------|
-| Remoraid  |
-| Chinchou  |
-| Wooper    |
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/remoraid/front.png) | Remoraid |
+| ![](../../graphics/pokemon/chinchou/front.png) | Chinchou |
+| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   |
 
 #### Fishing
 
-| Pokemon   |
-|-----------|
-| Magikarp  |
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/magikarp/front.png) | Magikarp |
 
 #### Rock Smash
 
-| Pokemon   |
-|-----------|
-| Geodude   |
-| Aron      |
+|                                               | Pokemon |
+| --------------------------------------------- | ------- |
+| ![](../../graphics/pokemon/geodude/front.png) | Geodude |
+| ![](../../graphics/pokemon/aron/front.png)    | Aron    |
 
 ## B2F

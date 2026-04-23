@@ -8,59 +8,59 @@ Connects to:
 ### Encounters
 #### Cave
 
-| Pokemon   |
-|-----------|
-| Slowpoke  |
-| Zubat     |
-| Wooper    |
-| Psyduck   |
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/slowpoke/front.png) | Slowpoke |
+| ![](../../graphics/pokemon/zubat/front.png)    | Zubat    |
+| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   |
+| ![](../../graphics/pokemon/psyduck/front.png)  | Psyduck  |
 
 #### Surfing
 
-| Pokemon   |
-|-----------|
-| Goldeen   |
-| Barboach  |
-| Wooper    |
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/goldeen/front.png)  | Goldeen  |
+| ![](../../graphics/pokemon/barboach/front.png) | Barboach |
+| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   |
 
 #### Fishing
 
-| Pokemon   | Rod   |
-|-----------|-------|
-| Magikarp  | Old   |
-| Wooper    | Old   |
-| Poliwag   | Good  |
-| Barboach  | Good  |
-| Poliwag   | Super |
-| Dratini   | Super |
+|                                                | Pokemon  | Rod   |
+| ---------------------------------------------- | -------- | ----- |
+| ![](../../graphics/pokemon/magikarp/front.png) | Magikarp | Old   |
+| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   | Old   |
+| ![](../../graphics/pokemon/poliwag/front.png)  | Poliwag  | Good  |
+| ![](../../graphics/pokemon/barboach/front.png) | Barboach | Good  |
+| ![](../../graphics/pokemon/poliwag/front.png)  | Poliwag  | Super |
+| ![](../../graphics/pokemon/dratini/front.png)  | Dratini  | Super |
 
 ## B2F
 ### Encounters
 #### Cave
 
-| Pokemon   |
-|-----------|
-| Slowpoke  |
-| Zubat     |
-| Wobuffet  |
-| Aron      |
-| Snorunt   |
+|                                                 | Pokemon  |
+| ----------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/slowpoke/front.png)  | Slowpoke |
+| ![](../../graphics/pokemon/zubat/front.png)     | Zubat    |
+| ![](../../graphics/pokemon/wobbuffet/front.png) | Wobuffet |
+| ![](../../graphics/pokemon/aron/front.png)      | Aron     |
+| ![](../../graphics/pokemon/snorunt/front.png)   | Snorunt  |
 
 #### Surfing
 
-| Pokemon   |
-|-----------|
-| Spheal    |
-| Wooper    |
-| Barboach  |
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/spheal/front.png)   | Spheal   |
+| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   |
+| ![](../../graphics/pokemon/barboach/front.png) | Barboach |
 
 #### Fishing
 
-| Pokemon   | Rod   |
-|-----------|-------|
-| Magikarp  | Old   |
-| Wooper    | Old   |
-| Poliwag   | Good  |
-| Barboach  | Good  |
-| Poliwag   | Super |
-| Dratini   | Super |
+|                                                | Pokemon  | Rod   |
+| ---------------------------------------------- | -------- | ----- |
+| ![](../../graphics/pokemon/magikarp/front.png) | Magikarp | Old   |
+| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   | Old   |
+| ![](../../graphics/pokemon/poliwag/front.png)  | Poliwag  | Good  |
+| ![](../../graphics/pokemon/barboach/front.png) | Barboach | Good  |
+| ![](../../graphics/pokemon/poliwag/front.png)  | Poliwag  | Super |
+| ![](../../graphics/pokemon/dratini/front.png)  | Dratini  | Super |

@@ -1,37 +1,47 @@
 # Bugsy
 ## Match 1
 
-- Spinarak
-- Shuckle
-- Scyther
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/spinarak/front.png) | Spinarak |
+| ![](../../graphics/pokemon/shuckle/front.png)  | Shuckle  |
+| ![](../../graphics/pokemon/scyther/front.png)  | Scyther  |
 
 ## Rematch 1
 
-- Ariados
-- Shuckle
-- Scizor
+|                                               | Pokemon |
+| --------------------------------------------- | ------- |
+| ![](../../graphics/pokemon/ariados/front.png) | Ariados |
+| ![](../../graphics/pokemon/shuckle/front.png) | Shuckle |
+| ![](../../graphics/pokemon/scizor/front.png)  | Scizor  |
 
 ## Rematch 2
 
-- Ariados
-- Shuckle
-- Scizor
-- Armaldo
+|                                               | Pokemon |
+| --------------------------------------------- | ------- |
+| ![](../../graphics/pokemon/ariados/front.png) | Ariados |
+| ![](../../graphics/pokemon/shuckle/front.png) | Shuckle |
+| ![](../../graphics/pokemon/scizor/front.png)  | Scizor  |
+| ![](../../graphics/pokemon/armaldo/front.png) | Armaldo |
 
 ## Rematch 3
 
-- Ariados
-- Shuckle
-- Scizor
-- Armaldo
-- Shedinja
+|                                                | Pokemon  |
+| ---------------------------------------------- | -------- |
+| ![](../../graphics/pokemon/ariados/front.png)  | Ariados  |
+| ![](../../graphics/pokemon/shuckle/front.png)  | Shuckle  |
+| ![](../../graphics/pokemon/scizor/front.png)   | Scizor   |
+| ![](../../graphics/pokemon/armaldo/front.png)  | Armaldo  |
+| ![](../../graphics/pokemon/shedinja/front.png) | Shedinja |
 
 
 ## Rematch 4 and On
 
-- Ariados
-- Shuckle
-- Scizor
-- Armaldo
-- Shedinja
-- Forretress
+|                                                  | Pokemon    |
+| ------------------------------------------------ | ---------- |
+| ![](../../graphics/pokemon/ariados/front.png)    | Ariados    |
+| ![](../../graphics/pokemon/shuckle/front.png)    | Shuckle    |
+| ![](../../graphics/pokemon/scizor/front.png)     | Scizor     |
+| ![](../../graphics/pokemon/armaldo/front.png)    | Armaldo    |
+| ![](../../graphics/pokemon/shedinja/front.png)   | Shedinja   |
+| ![](../../graphics/pokemon/forretress/front.png) | Forretress |

@@ -9,49 +9,49 @@ Connects to:
 ## Encounters
 ### Grass
 
-| Pokemon    | Morn | Day | Eve | Night |
-|------------|------|-----|-----|-------|
-| Wingull    | Y    | Y   | Y   | Y     |
-| Psyduck    | Y    |     |     |       |
-| Sentret    | Y    | Y   |     |       |
-| Hoppip     | Y    |     |     |       |
-| Ledyba     | Y    |     |     |       |
-| Mareep     | Y    | Y   | Y   |       |
-| Lotad      |      | Y   |     |       |
-| Bellsprout |      | Y   |     |       |
-| Surskit    |      | Y   |     |       |
-| Shroomish  |      |     | Y   | Y     |
-| Rattata    |      |     | Y   | Y     |
-| Oddish     |      |     | Y   | Y     |
-| Poliwag    |      |     | Y   | Y     |
-| Wooper     |      |     |     | Y     |
-| Gastly     |      |     |     | Y     |
+|                                                  | Pokemon    | Morn | Day | Eve | Night |
+| ------------------------------------------------ | ---------- | ---- | --- | --- | ----- |
+| ![](../../graphics/pokemon/wingull/front.png)    | Wingull    | Y    | Y   | Y   | Y     |
+| ![](../../graphics/pokemon/psyduck/front.png)    | Psyduck    | Y    |     |     |       |
+| ![](../../graphics/pokemon/sentret/front.png)    | Sentret    | Y    | Y   |     |       |
+| ![](../../graphics/pokemon/hoppip/front.png)     | Hoppip     | Y    |     |     |       |
+| ![](../../graphics/pokemon/ledyba/front.png)     | Ledyba     | Y    |     |     |       |
+| ![](../../graphics/pokemon/mareep/front.png)     | Mareep     | Y    | Y   | Y   |       |
+| ![](../../graphics/pokemon/lotad/front.png)      | Lotad      |      | Y   |     |       |
+| ![](../../graphics/pokemon/bellsprout/front.png) | Bellsprout |      | Y   |     |       |
+| ![](../../graphics/pokemon/surskit/front.png)    | Surskit    |      | Y   |     |       |
+| ![](../../graphics/pokemon/shroomish/front.png)  | Shroomish  |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/rattata/front.png)    | Rattata    |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/oddish/front.png)     | Oddish     |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/poliwag/front.png)    | Poliwag    |      |     | Y   | Y     |
+| ![](../../graphics/pokemon/wooper/front.png)     | Wooper     |      |     |     | Y     |
+| ![](../../graphics/pokemon/gastly/front.png)     | Gastly     |      |     |     | Y     |
 
 ### Surfing
 
-| Pokemon   |
-|-----------|
-| Goldeen   |
-| Marill    |
-| Wooper    |
+|                                               | Pokemon |
+| --------------------------------------------- | ------- |
+| ![](../../graphics/pokemon/goldeen/front.png) | Goldeen |
+| ![](../../graphics/pokemon/marill/front.png)  | Marill  |
+| ![](../../graphics/pokemon/wooper/front.png)  | Wooper  |
 
 ### Fishing
 
-| Pokemon   | Rod   |
-|-----------|-------|
-| Magikarp  | Old   |
-| Goldeen   | Old   |
-| Remoraid  | Good  |
-| Psyduck   | Good  |
-| Corphish  | Super |
-| Feebas    | Super |
+|                                                | Pokemon  | Rod   |
+| ---------------------------------------------- | -------- | ----- |
+| ![](../../graphics/pokemon/magikarp/front.png) | Magikarp | Old   |
+| ![](../../graphics/pokemon/goldeen/front.png)  | Goldeen  | Old   |
+| ![](../../graphics/pokemon/remoraid/front.png) | Remoraid | Good  |
+| ![](../../graphics/pokemon/psyduck/front.png)  | Psyduck  | Good  |
+| ![](../../graphics/pokemon/corphish/front.png) | Corphish | Super |
+| ![](../../graphics/pokemon/feebas/front.png)   | Feebas   | Super |
 
 ### Headbutt
 
-| Pokemon   |
-|-----------|
-| Pineco    |
-| Cascoon   |
-| Silcoon   |
-| Scyther   |
-| Exeggcute |
+|                                                 | Pokemon   |
+| ----------------------------------------------- | --------- |
+| ![](../../graphics/pokemon/pineco/front.png)    | Pineco    |
+| ![](../../graphics/pokemon/cascoon/front.png)   | Cascoon   |
+| ![](../../graphics/pokemon/silcoon/front.png)   | Silcoon   |
+| ![](../../graphics/pokemon/scyther/front.png)   | Scyther   |
+| ![](../../graphics/pokemon/exeggcute/front.png) | Exeggcute |
