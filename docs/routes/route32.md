@@ -1,66 +1,57 @@
 # Route 32
 
 Connects to:
-- Violet City (N)
-- Union Cave (S)
-- Ruins of Alph (W)
+
+- [Violet City (N)](routes/town_violet.md)
+- [Union Cave (S)](routes/landmark_unioncave.md)
+- [Ruins of Alph (W)](routes/landmark_ruinsofalph.md)
 
 ## Encounters
 ### Grass
 
-MORNING
-- Wingull
-- Psyduck
-- Sentret
-- Hoppip
-- Ledyba
-- Mareep
-
-DAY
-- Wingull
-- Lotad
-- Sentret
-- Bellsprout
-- Surskit
-- Mareep
-
-EVENING
-- Wingull
-- Shroomish
-- Rattata
-- Oddish
-- Poliwag
-- Mareep
-
-NIGHT
-- Wingull
-- Shroomish
-- Rattata
-- Oddish
-- Wooper
-- Gastly
+| Pokemon    | Morn | Day | Eve | Night |
+|------------|------|-----|-----|-------|
+| Wingull    | Y    | Y   | Y   | Y     |
+| Psyduck    | Y    |     |     |       |
+| Sentret    | Y    | Y   |     |       |
+| Hoppip     | Y    |     |     |       |
+| Ledyba     | Y    |     |     |       |
+| Mareep     | Y    | Y   | Y   |       |
+| Lotad      |      | Y   |     |       |
+| Bellsprout |      | Y   |     |       |
+| Surskit    |      | Y   |     |       |
+| Shroomish  |      |     | Y   | Y     |
+| Rattata    |      |     | Y   | Y     |
+| Oddish     |      |     | Y   | Y     |
+| Poliwag    |      |     | Y   | Y     |
+| Wooper     |      |     |     | Y     |
+| Gastly     |      |     |     | Y     |
 
 ### Surfing
 
-- Goldeen
-- Marill
-- Wooper
+| Pokemon   |
+|-----------|
+| Goldeen   |
+| Marill    |
+| Wooper    |
 
 ### Fishing
 
-- Magikarp
-- Goldeen
-
-- Remoraid
-- Psyduck
-
-- Corphish
-- Feebas
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Goldeen   | Old   |
+| Remoraid  | Good  |
+| Psyduck   | Good  |
+| Corphish  | Super |
+| Feebas    | Super |
 
 ### Headbutt
 
-- Pineco
-- Cascoon
-- Silcoon
-- Scyther
-- Exeggcute
+| Pokemon   |
+|-----------|
+| Pineco    |
+| Cascoon   |
+| Silcoon   |
+| Scyther   |
+| Exeggcute |

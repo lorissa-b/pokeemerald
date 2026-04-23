@@ -1,55 +1,43 @@
 # Route 36
 
 Connects to:
+
 - Route 37 (N)
-- Violet City (E)
-- Route 35 (S)
-- Ruins of Alph (S)
-- National Park (W)
+- [Violet City (E)](routes/town_violet.md)
+- [Route 35 (S)]
+- [Ruins of Alph (S)](routes/landmark_ruinsofalph.md)
+- [National Park (W)]
 
 ## Encounters
 ### Grass
 
-MORNING
-- Pidgey
-- Nidoran F
-- Nidoran M
-- Growlithe
-- Bellsprout
-- Ledyba
-
-DAY
-- Pidgey
-- Nidoran F
-- Nidoran M
-- Growlithe
-- Bellsprout
-- Caterpie
-
-EVENING
-- Hoothoot
-- Nidoran F
-- Nidoran M
-- Vulpix
-- Oddish
-- Weedle
-
-NIGHT
-- Hoothoot
-- Nidoran F
-- Nidoran M
-- Vulpix
-- Oddish
-- Spinarak
+| Pokemon    | Morn | Day | Eve | Night |
+|------------|------|-----|-----|-------|
+| Pidgey     | Y    | Y   |     |       |
+| Nidoran F  | Y    | Y   | Y   | Y     |
+| Nidoran M  | Y    | Y   | Y   | Y     |
+| Growlithe  | Y    | Y   |     |       |
+| Bellsprout | Y    | Y   |     |       |
+| Ledyba     | Y    |     |     |       |
+| Caterpie   |      | Y   |     |       |
+| Vulpix     |      |     | Y   | Y     |
+| Oddish     |      |     | Y   | Y     |
+| Weedle     |      |     | Y   |       |
+| Hoothoot   |      |     | Y   | Y     |
+| Spinarak   |      |     |     | Y     |
 
 ### Headbutt
 
-- Pineco
-- Seedot
-- Aipom
-- Silcoon
-- Cascoon
+| Pokemon   |
+|-----------|
+| Pineco    |
+| Seedot    |
+| Aipom     |
+| Silcoon   |
+| Cascoon   |
 
 ### Special
 
-- Sudowoodo
+| Pokemon    | Condition    |
+|------------|--------------|
+| Sudowoodo  | Watering Can |

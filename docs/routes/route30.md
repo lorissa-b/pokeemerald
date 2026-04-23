@@ -1,63 +1,53 @@
 # Route 30
 
 Connects to:
-- Route 31 (N)
-- Cherrygrove City (S)
+
+- [Route 31 (N)](routes/route31.md)
+- [Cherrygrove City (S)](routes/town_cherrygrove.md)
 
 ## Encounters
 ### Grass
 
-MORNING
-- Ledyba
-- Hoppip
-- Sentret
-- Pidgey
-- Wurmple
-- Marill
-
-DAY
-- Hoppip
-- Sentret
-- Pidgey
-- Wurmple
-- Caterpie
-- Marill
-
-EVENING
-- Rattata
-- Hoothoot
-- Spinarak
-- Caterpie
-- Poliwag
-
-NIGHT
-- Rattata
-- Hoothoot
-- Spinarak
-- Weedle
-- Poliwag
-- Zubat
+| Pokemon  | Morn | Day | Eve | Night |
+|----------|------|-----|-----|-------|
+| Ledyba   | Y    |     |     |       |
+| Hoppip   | Y    | Y   |     |       |
+| Sentret  | Y    | Y   |     |       |
+| Pidgey   | Y    | Y   |     |       |
+| Wurmple  | Y    | Y   |     |       |
+| Marill   | Y    | Y   |     |       |
+| Caterpie |      | Y   | Y   |       |
+| Rattata  |      |     | Y   | Y     |
+| Hoothoot |      |     | Y   | Y     |
+| Spinarak |      |     | Y   | Y     |
+| Poliwag  |      |     | Y   | Y     |
+| Weedle   |      |     |     | Y     |
+| Zubat    |      |     |     | Y     |
 
 ### Surfing
 
-- Marill
-- Lotad
-- Poliwag
+| Pokemon   |
+|-----------|
+| Marill    |
+| Lotad     |
+| Poliwag   |
 
 ### Fishing
 
-- Magikarp
-- Wooper
-
-- Corphish
-- Krabby
-
-- Poliwhirl
-- Barboach
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Wooper    | Old   |
+| Corphish  | Good  |
+| Krabby    | Good  |
+| Poliwhirl | Super |
+| Barboach  | Super |
 
 ### Headbutt
 
-- Pineco
-- Seedot
-- Kakuna
-- Metapod
+| Pokemon   |
+|-----------|
+| Pineco    |
+| Seedot    |
+| Kakuna    |
+| Metapod   |

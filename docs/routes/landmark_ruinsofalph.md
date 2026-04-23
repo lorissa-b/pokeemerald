@@ -1,59 +1,47 @@
 # Ruins of Alph
 
 Connects to:
-- Route 36 (N)
-- Route 32 (E)
+
+- [Route 36 (N)](routes/route36.md)
+- [Route 32 (E)](routes/route32.md)
 
 ## Encounters
 ### Grass
 
-MORNING
-- Natu
-- Baltoy
-- Spoink
-- Abra
-- Smeargle
-- Spearow
-
-DAY
-- Natu
-- Baltoy
-- Jigglypuff
-- Smeargle
-- Spearow
-
-EVENING
-- Natu
-- Baltoy
-- Spoink
-- Abra
-- Misdreavus
-- Chimecho
-
-NIGHT
-- Natu
-- Baltoy
-- Misdreavus
-- Chimecho
-- Gastly
+| Pokemon    | Morn | Day | Eve | Night |
+|------------|------|-----|-----|-------|
+| Natu       | Y    | Y   | Y   | Y     |
+| Baltoy     | Y    | Y   | Y   | Y     |
+| Spoink     | Y    |     | Y   |       |
+| Abra       | Y    |     | Y   |       |
+| Smeargle   | Y    | Y   |     |       |
+| Spearow    | Y    | Y   |     |       |
+| Jigglypuff |      | Y   |     |       |
+| Misdreavus |      |     | Y   | Y     |
+| Chimecho   |      |     | Y   | Y     |
+| Gastly     |      |     |     | Y     |
 
 ### Surfing
 
-- Wooper
-- Poliwag
-- Surskit
+| Pokemon   |
+|-----------|
+| Wooper    |
+| Poliwag   |
+| Surskit   |
 
 ### Fishing
 
-- Magikarp
-- Goldeen
-
-- Marill
-- Wooper
-
-- Barboach
-- Dratini
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Goldeen   | Old   |
+| Marill    | Good  |
+| Wooper    | Good  |
+| Barboach  | Super |
+| Dratini   | Super |
 
 ### Inside
 
-- Unown
+| Pokemon   |
+|-----------|
+| Unown     |

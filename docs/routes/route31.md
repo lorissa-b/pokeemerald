@@ -1,66 +1,55 @@
 # Route 31
 
 Connects to:
-- Dark Cave (N)
-- Route 30 (S)
-- Violet City (W)
+
+- [Dark Cave (N)](routes/landmark_darkcave.md)
+- [Route 30 (S)](routes/route30.md)
+- [Violet City (W)](routes/town_violet.md)
 
 ## Encounters
 ### Grass
 
-MORNING
-- Pidgey
-- Sentret
-- Ledyba
-- Caterpie
-- Bellsprout
-- Sunkern
-
-DAY
-- Pidgey
-- Sentret
-- Sunkern
-- Caterpie
-- Bellsprout
-- Plusle
-
-EVENING
-- Pidgey
-- Hoothoot
-- Rattata
-- Sentret
-- Weedle
-- Oddish
-
-NIGHT
-- Hoothoot
-- Rattata
-- Weedle
-- Oddish
-- Minun
-- Zubat
-- Gastly
+| Pokemon    | Morn | Day | Eve | Night |
+|------------|------|-----|-----|-------|
+| Pidgey     | Y    | Y   | Y   |       |
+| Sentret    | Y    | Y   | Y   |       |
+| Ledyba     | Y    |     |     |       |
+| Caterpie   | Y    | Y   |     |       |
+| Bellsprout | Y    | Y   |     |       |
+| Sunkern    | Y    | Y   |     |       |
+| Plusle     |      | Y   |     |       |
+| Hoothoot   |      |     | Y   | Y     |
+| Rattata    |      |     | Y   | Y     |
+| Weedle     |      |     | Y   | Y     |
+| Oddish     |      |     | Y   | Y     |
+| Minun      |      |     |     | Y     |
+| Zubat      |      |     |     | Y     |
+| Gastly     |      |     |     | Y     |
 
 ### Surfing
 
-- Lotad
-- Surskit
-- Marill
+| Pokemon   |
+|-----------|
+| Lotad     |
+| Surskit   |
+| Marill    |
 
 ### Fishing
 
-- Magikarp
-- Wooper
-
-- Corphish
-- Krabby
-
-- Poliwhirl
-- Barboach
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Wooper    | Old   |
+| Corphish  | Good  |
+| Krabby    | Good  |
+| Poliwhirl | Super |
+| Barboach  | Super |
 
 ### Headbutt
 
-- Pineco
-- Seedot
-- Kakuna
-- Metapod
+| Pokemon   |
+|-----------|
+| Pineco    |
+| Seedot    |
+| Kakuna    |
+| Metapod   |

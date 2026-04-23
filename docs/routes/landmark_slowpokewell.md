@@ -1,55 +1,66 @@
 # Slowpoke Well
 
 Connects to:
-- Azalea Town
+
+- [Azalea Town](routes/town_azalea.md)
 
 ## B1F
 ### Encounters
 #### Cave
 
-- Slowpoke
-- Zubat
-- Wooper
-- Psyduck
+| Pokemon   |
+|-----------|
+| Slowpoke  |
+| Zubat     |
+| Wooper    |
+| Psyduck   |
 
 #### Surfing
 
-- Goldeen
-- Barboach
-- Wooper
+| Pokemon   |
+|-----------|
+| Goldeen   |
+| Barboach  |
+| Wooper    |
 
 #### Fishing
 
-- Magikarp
-- Wooper
-
-- Poliwag
-- Barboach
-
-- Dratini
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Wooper    | Old   |
+| Poliwag   | Good  |
+| Barboach  | Good  |
+| Poliwag   | Super |
+| Dratini   | Super |
 
 ## B2F
 ### Encounters
 #### Cave
 
-- Slowpoke
-- Zubat
-- Wobuffet
-- Aron
-- Snorunt
+| Pokemon   |
+|-----------|
+| Slowpoke  |
+| Zubat     |
+| Wobuffet  |
+| Aron      |
+| Snorunt   |
 
 #### Surfing
 
-- Spheal
-- Wooper
-- Barboach
+| Pokemon   |
+|-----------|
+| Spheal    |
+| Wooper    |
+| Barboach  |
 
 #### Fishing
 
-- Magikarp
-- Wooper
-
-- Poliwag
-- Barboach
-
-- Dratini
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Wooper    | Old   |
+| Poliwag   | Good  |
+| Barboach  | Good  |
+| Poliwag   | Super |
+| Dratini   | Super |

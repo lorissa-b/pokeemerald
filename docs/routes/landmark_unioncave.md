@@ -1,59 +1,75 @@
 # Union Cave
 
 Connects to:
-- Route 32
-- Route 33
+
+- [Route 32](routes/route32.md)
+- [Route 33](routes/route33.md)
 
 ## 1F
 ### Encounters
 #### Cave
 
-- Sandshrew
-- Diglett
-- Aron
-- Paras
-- Zubat
-- Geodude
-- Whismur
+| Pokemon   |
+|-----------|
+| Sandshrew |
+| Diglett   |
+| Aron      |
+| Paras     |
+| Zubat     |
+| Geodude   |
+| Whismur   |
 
 #### Surfing
-
-- Remoraid
-- Chinchou
-- Wooper
+| Pokemon   |
+|-----------|
+| Remoraid  |
+| Chinchou  |
+| Wooper    |
 
 #### Fishing
 
-- Magikarp
+| Pokemon   |
+|-----------|
+| Magikarp  |
 
 #### Rock Smash
 
-- Geodude
+| Pokemon   |
+|-----------|
+| Geodude   |
 
 ## B1F
 ### Encounters
 #### Cave
 
-- Zubat
-- Geodude
-- Onix
-- Aron
-- Machop
-- Whismur
+| Pokemon   |
+|-----------|
+| Zubat     |
+| Geodude   |
+| Onix      |
+| Aron      |
+| Machop    |
+| Whismur   |
 
 #### Surfing
 
-- Remoraid
-- Chinchou
-- Wooper
+| Pokemon   |
+|-----------|
+| Remoraid  |
+| Chinchou  |
+| Wooper    |
 
 #### Fishing
 
-- Magikarp
+| Pokemon   |
+|-----------|
+| Magikarp  |
 
 #### Rock Smash
 
-- Geodude
-- Aron
+| Pokemon   |
+|-----------|
+| Geodude   |
+| Aron      |
 
 ## B2F

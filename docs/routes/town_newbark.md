@@ -1,36 +1,40 @@
 # New Bark Town
 
 Connects to:
+
 - Route 27 (E)
-- Route 20 (W)
+- [Route 29 (W)](routes/route29.md)
 
 ## Encounters
 ### Surfing
 
-- Tentacool
-- Horsea
-- Wingull
+| Pokemon   |
+|-----------|
+| Tentacool |
+| Horsea    |
+| Wingull   |
 
 ### Fishing
-- Magikarp
-- Tentacool
 
-- Horsea
-- Krabby
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Tentacool | Old   |
+| Horsea    | Good  |
+| Krabby    | Good  |
+| Qwilfish  | Super |
+| Remoraid  | Super |
 
-- Qwilfish
-- Remoraid
+### Special
 
-### Gift
-
-- Chikorita
-- Cyndaquil
-- Totodile
-
-- Bulbasaur
-- Charmander
-- Squirtle
-
-- Treecko
-- Torchic
-- Mudkip
+| Pokemon    | Condition   |
+|------------|-------------|
+| Chikorita  | Starter     |
+| Cyndaquil  | Starter     |
+| Totodile   | Starter     |
+| Bulbasaur  | Champion    |
+| Charmander | Champion    |
+| Squirtle   | Champion    |
+| Treecko    | Champion x2 |
+| Torchic    | Champion x2 |
+| Mudkip     | Champion x2 |

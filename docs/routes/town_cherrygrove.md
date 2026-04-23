@@ -1,23 +1,26 @@
 # Cherrygrove City
 
 Connects to:
-- Route 30 (N)
-- Route 29 (E)
+
+- [Route 30 (N)](routes/route30.md)
+- [Route 29 (E)](routes/route28.md)
 
 ## Encounters
 ### Surfing
 
-- Staryu
-- Tentacool
-- Horsea
+| Pokemon   |
+|-----------|
+| Staryu    |
+| Tentacool |
+| Horsea    |
 
 ### Fishing
 
-- Magikarp
-- Tentacool
-
-- Horsea
-- Krabby
-
-- Qwilfish
-- Remoraid
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Tentacool | Old   |
+| Horsea    | Good  |
+| Krabby    | Good  |
+| Qwilfish  | Super |
+| Remoraid  | Super |

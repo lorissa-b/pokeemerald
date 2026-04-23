@@ -1,64 +1,81 @@
 # Dark Cave
 
 Connects to:
-- Route 31
-- Route 45
-- Route 46
+
+- [Route 31](routes/route31.md)
+- [Route 45]
+- [Route 46](routes/route46.md)
 
 ## Route 31 Side
 ### Encounters
 #### Cave
-- Zubat
-- Geodude
-- Dunsparce
-- Teddiursa
-- Diglett
+
+| Pokemon   |
+|-----------|
+| Zubat     |
+| Geodude   |
+| Dunsparce |
+| Teddiursa |
+| Diglett   |
 
 #### Surfing
-- Wooper
+
+| Pokemon   |
+|-----------|
+| Wooper    |
 
 #### Fishing
 
-- Magikarp
-- Wooper
-
-- Goldeen
-- Barboach
-
-- Poliwag
-- Carvanha
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Wooper    | Old   |
+| Goldeen   | Good  |
+| Barboach  | Good  |
+| Poliwag   | Super |
+| Carvanha  | Super |
 
 #### Rock Smash
 
-- Geodude
-- Shuckle
-- Aron
+| Pokemon   |
+|-----------|
+| Geodude   |
+| Shuckle   |
+| Aron      |
 
 ## Route 45 Side
 ### Encounters
 #### Cave
-- Zubat
-- Geodude
-- Wobbuffet
-- Teddiursa
-- Nosepass
+
+| Pokemon   |
+|-----------|
+| Zubat     |
+| Geodude   |
+| Wobbuffet |
+| Teddiursa |
+| Nosepass  |
 
 #### Surfing
-- Wooper
+
+| Pokemon   |
+|-----------|
+| Wooper    |
 
 #### Fishing
 
-- Magikarp
-- Wooper
-
-- Goldeen
-- Barboach
-
-- Poliwag
-- Carvanha
+| Pokemon   | Rod   |
+|-----------|-------|
+| Magikarp  | Old   |
+| Wooper    | Old   |
+| Goldeen   | Good  |
+| Barboach  | Good  |
+| Poliwag   | Super |
+| Carvanha  | Super |
 
 #### Rock Smash
 
-- Geodude
-- Shuckle
-- Aron
+| Pokemon   |
+|-----------|
+| Geodude   |
+| Shuckle   |
+| Aron      |

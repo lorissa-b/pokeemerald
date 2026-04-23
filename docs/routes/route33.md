@@ -1,46 +1,33 @@
 # Route 33
 
 Connects to:
-- Union Cave (N)
-- Azalea Town (W)
+
+- [Union Cave (N)](routes/landmark_unioncave.md)
+- [Azalea Town (W)](routes/town_azalea.md)
 
 ## Encounters
 ### Grass
 
-MORNING
-- Spearow
-- Sentret
-- Phanpy
-- Geodude
-- Makuhita
-
-DAY
-- Spearow
-- Sentret
-- Geodude
-- Makuhita
-- Mankey
-- Spinda
-
-EVENING
-- Hoothoot
-- Rattata
-- Geodude
-- Phanpy
-- Makuhita
-- Spoink
-
-NIGHT
-- Hoothoot
-- Rattata
-- Geodude
-- Clefairy
-- Mankey
-- Machop
+| Pokemon    | Morn | Day | Eve | Night |
+|------------|------|-----|-----|-------|
+| Spearow    | Y    | Y   |     |       |
+| Sentret    | Y    | Y   |     |       |
+| Phanpy     | Y    |     | Y   |       |
+| Geodude    | Y    | Y   | Y   | Y     |
+| Makuhita   | Y    | Y   | Y   |       |
+| Mankey     |      | Y   |     | Y     |
+| Spinda     |      | Y   |     |       |
+| Hoothoot   |      |     | Y   | Y     |
+| Rattata    |      |     | Y   | Y     |
+| Spoink     |      |     | Y   |       |
+| Clefairy   |      |     |     | Y     |
+| Machop     |      |     |     | Y     |
 
 ### Headbutt
 
-- Venonat
-- Spinarak
-- Silcoon
-- Cascoon
+| Pokemon   |
+|-----------|
+| Venonat   |
+| Spinarak  |
+| Silcoon   |
+| Cascoon   |
