@@ -9,21 +9,21 @@ Connects to:
 ## Second Floor
 ### Encounters
 
-|                                                  | Pokemon    |
-| ------------------------------------------------ | ---------- |
-| ![](https://serebii.net/pokearth/sprites/frlg/69.png) | Bellsprout |
-| ![](https://serebii.net/pokearth/sprites/frlg/187.png)     | Hoppip     |
-| ![](https://serebii.net/pokearth/sprites/frlg/191.png)    | Sunkern    |
-| ![](https://serebii.net/pokearth/sprites/frlg/46.png)      | Paras      |
-| ![](https://serebii.net/pokearth/sprites/frlg/285.png)  | Shroomish  |
+|                                                        | Pokemon    |
+| ------------------------------------------------------ | ---------- |
+| ![](https://serebii.net/pokearth/sprites/frlg/069.png) | Bellsprout |
+| ![](https://serebii.net/pokearth/sprites/frlg/187.png) | Hoppip     |
+| ![](https://serebii.net/pokearth/sprites/frlg/191.png) | Sunkern    |
+| ![](https://serebii.net/pokearth/sprites/frlg/046.png) | Paras      |
+| ![](https://serebii.net/pokearth/sprites/frlg/285.png) | Shroomish  |
 
 ## Third Floor
 ### Encounters
 
-|                                                  | Pokemon    |
-| ------------------------------------------------ | ---------- |
-| ![](https://serebii.net/pokearth/sprites/frlg/69.png) | Bellsprout |
-| ![](https://serebii.net/pokearth/sprites/frlg/187.png)     | Hoppip     |
-| ![](https://serebii.net/pokearth/sprites/frlg/191.png)    | Sunkern    |
-| ![](https://serebii.net/pokearth/sprites/frlg/46.png)      | Paras      |
-| ![](https://serebii.net/pokearth/sprites/frlg/285.png)  | Shroomish  |
+|                                                        | Pokemon    |
+| ------------------------------------------------------ | ---------- |
+| ![](https://serebii.net/pokearth/sprites/frlg/069.png) | Bellsprout |
+| ![](https://serebii.net/pokearth/sprites/frlg/187.png) | Hoppip     |
+| ![](https://serebii.net/pokearth/sprites/frlg/191.png) | Sunkern    |
+| ![](https://serebii.net/pokearth/sprites/frlg/046.png) | Paras      |
+| ![](https://serebii.net/pokearth/sprites/frlg/285.png) | Shroomish  |

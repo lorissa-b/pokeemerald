@@ -10,72 +10,72 @@ Connects to:
 ### Encounters
 #### Cave
 
-|                                                 | Pokemon   |
-| ----------------------------------------------- | --------- |
-| ![](https://serebii.net/pokearth/sprites/frlg/41.png)     | Zubat     |
-| ![](https://serebii.net/pokearth/sprites/frlg/74.png)   | Geodude   |
+|                                                        | Pokemon   |
+| ------------------------------------------------------ | --------- |
+| ![](https://serebii.net/pokearth/sprites/frlg/041.png) | Zubat     |
+| ![](https://serebii.net/pokearth/sprites/frlg/074.png) | Geodude   |
 | ![](https://serebii.net/pokearth/sprites/frlg/206.png) | Dunsparce |
 | ![](https://serebii.net/pokearth/sprites/frlg/216.png) | Teddiursa |
-| ![](https://serebii.net/pokearth/sprites/frlg/50.png)   | Diglett   |
+| ![](https://serebii.net/pokearth/sprites/frlg/050.png) | Diglett   |
 
 #### Surfing
 
-|                                              | Pokemon |
-| -------------------------------------------- | ------- |
+|                                                        | Pokemon |
+| ------------------------------------------------------ | ------- |
 | ![](https://serebii.net/pokearth/sprites/frlg/194.png) | Wooper  |
 
 #### Fishing
 
-|                                                | Pokemon  | Rod   |
-| ---------------------------------------------- | -------- | ----- |
+|                                                        | Pokemon  | Rod   |
+| ------------------------------------------------------ | -------- | ----- |
 | ![](https://serebii.net/pokearth/sprites/frlg/129.png) | Magikarp | Old   |
-| ![](https://serebii.net/pokearth/sprites/frlg/194.png)   | Wooper   | Old   |
-| ![](https://serebii.net/pokearth/sprites/frlg/118.png)  | Goldeen  | Good  |
+| ![](https://serebii.net/pokearth/sprites/frlg/194.png) | Wooper   | Old   |
+| ![](https://serebii.net/pokearth/sprites/frlg/118.png) | Goldeen  | Good  |
 | ![](https://serebii.net/pokearth/sprites/frlg/339.png) | Barboach | Good  |
-| ![](https://serebii.net/pokearth/sprites/frlg/60.png)  | Poliwag  | Super |
+| ![](https://serebii.net/pokearth/sprites/frlg/060.png) | Poliwag  | Super |
 | ![](https://serebii.net/pokearth/sprites/frlg/318.png) | Carvanha | Super |
 
 #### Rock Smash
 
-|                                               | Pokemon |
-| --------------------------------------------- | ------- |
-| ![](https://serebii.net/pokearth/sprites/frlg/74.png) | Geodude |
+|                                                        | Pokemon |
+| ------------------------------------------------------ | ------- |
+| ![](https://serebii.net/pokearth/sprites/frlg/074.png) | Geodude |
 | ![](https://serebii.net/pokearth/sprites/frlg/213.png) | Shuckle |
-| ![](https://serebii.net/pokearth/sprites/frlg/304.png)    | Aron    |
+| ![](https://serebii.net/pokearth/sprites/frlg/304.png) | Aron    |
 
 ## Route 45 Side
 ### Encounters
 #### Cave
 
-|                                                 | Pokemon   |
-| ----------------------------------------------- | --------- |
-| ![](https://serebii.net/pokearth/sprites/frlg/41.png)     | Zubat     |
-| ![](https://serebii.net/pokearth/sprites/frlg/74.png)   | Geodude   |
+|                                                        | Pokemon   |
+| ------------------------------------------------------ | --------- |
+| ![](https://serebii.net/pokearth/sprites/frlg/041.png) | Zubat     |
+| ![](https://serebii.net/pokearth/sprites/frlg/074.png) | Geodude   |
 | ![](https://serebii.net/pokearth/sprites/frlg/202.png) | Wobbuffet |
 | ![](https://serebii.net/pokearth/sprites/frlg/216.png) | Teddiursa |
-| ![](https://serebii.net/pokearth/sprites/frlg/299.png)  | Nosepass  |
+| ![](https://serebii.net/pokearth/sprites/frlg/299.png) | Nosepass  |
 
 #### Surfing
 
-|                                              | Pokemon |
-| -------------------------------------------- | ------- |
+|                                                        | Pokemon |
+| ------------------------------------------------------ | ------- |
 | ![](https://serebii.net/pokearth/sprites/frlg/194.png) | Wooper  |
 
 #### Fishing
 
-|                                                | Pokemon  | Rod   |
-| ---------------------------------------------- | -------- | ----- |
+|                                                        | Pokemon  | Rod   |
+| ------------------------------------------------------ | -------- | ----- |
 | ![](https://serebii.net/pokearth/sprites/frlg/129.png) | Magikarp | Old   |
-| ![](https://serebii.net/pokearth/sprites/frlg/194.png)   | Wooper   | Old   |
-| ![](https://serebii.net/pokearth/sprites/frlg/118.png)  | Goldeen  | Good  |
+| ![](https://serebii.net/pokearth/sprites/frlg/194.png) | Wooper   | Old   |
+| ![](https://serebii.net/pokearth/sprites/frlg/118.png) | Goldeen  | Good  |
 | ![](https://serebii.net/pokearth/sprites/frlg/339.png) | Barboach | Good  |
-| ![](https://serebii.net/pokearth/sprites/frlg/60.png)  | Poliwag  | Super |
+| ![](https://serebii.net/pokearth/sprites/frlg/060.png) | Poliwag  | Super |
 | ![](https://serebii.net/pokearth/sprites/frlg/318.png) | Carvanha | Super |
 
 #### Rock Smash
 
-|                                               | Pokemon |
-| --------------------------------------------- | ------- |
-| ![](https://serebii.net/pokearth/sprites/frlg/74.png) | Geodude |
+|                                                        | Pokemon |
+| ------------------------------------------------------ | ------- |
+| ![](https://serebii.net/pokearth/sprites/frlg/074.png) | Geodude |
 | ![](https://serebii.net/pokearth/sprites/frlg/213.png) | Shuckle |
-| ![](https://serebii.net/pokearth/sprites/frlg/304.png)    | Aron    |
+| ![](https://serebii.net/pokearth/sprites/frlg/304.png) | Aron    |

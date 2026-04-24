@@ -11,33 +11,33 @@ Connects to:
 ## Encounters
 ### Grass
 
-|                                                  | Pokemon    | Morn | Day | Eve | Night |
-| ------------------------------------------------ | ---------- | ---- | --- | --- | ----- |
-| ![](https://serebii.net/pokearth/sprites/frlg/16.png)     | Pidgey     | Y    | Y   |     |       |
-| ![](https://serebii.net/pokearth/sprites/frlg/29.png)  | Nidoran F  | Y    | Y   | Y   | Y     |
-| ![](https://serebii.net/pokearth/sprites/frlg/32.png)  | Nidoran M  | Y    | Y   | Y   | Y     |
-| ![](https://serebii.net/pokearth/sprites/frlg/58.png)  | Growlithe  | Y    | Y   |     |       |
-| ![](https://serebii.net/pokearth/sprites/frlg/69.png) | Bellsprout | Y    | Y   |     |       |
-| ![](https://serebii.net/pokearth/sprites/frlg/165.png)     | Ledyba     | Y    |     |     |       |
-| ![](https://serebii.net/pokearth/sprites/frlg/10.png)   | Caterpie   |      | Y   |     |       |
-| ![](https://serebii.net/pokearth/sprites/frlg/37.png)     | Vulpix     |      |     | Y   | Y     |
-| ![](https://serebii.net/pokearth/sprites/frlg/43.png)     | Oddish     |      |     | Y   | Y     |
-| ![](https://serebii.net/pokearth/sprites/frlg/13.png)     | Weedle     |      |     | Y   |       |
-| ![](https://serebii.net/pokearth/sprites/frlg/163.png)   | Hoothoot   |      |     | Y   | Y     |
-| ![](https://serebii.net/pokearth/sprites/frlg/167.png)   | Spinarak   |      |     |     | Y     |
+|                                                        | Pokemon    | Morn | Day | Eve | Night |
+| ------------------------------------------------------ | ---------- | ---- | --- | --- | ----- |
+| ![](https://serebii.net/pokearth/sprites/frlg/016.png) | Pidgey     | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/029.png) | Nidoran F  | Y    | Y   | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/032.png) | Nidoran M  | Y    | Y   | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/058.png) | Growlithe  | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/069.png) | Bellsprout | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/165.png) | Ledyba     | Y    |     |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/010.png) | Caterpie   |      | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/037.png) | Vulpix     |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/043.png) | Oddish     |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/013.png) | Weedle     |      |     | Y   |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/163.png) | Hoothoot   |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/167.png) | Spinarak   |      |     |     | Y     |
 
 ### Headbutt
 
-|                                               | Pokemon |
-| --------------------------------------------- | ------- |
-| ![](https://serebii.net/pokearth/sprites/frlg/204.png)  | Pineco  |
-| ![](https://serebii.net/pokearth/sprites/frlg/273.png)  | Seedot  |
-| ![](https://serebii.net/pokearth/sprites/frlg/190.png)   | Aipom   |
+|                                                        | Pokemon |
+| ------------------------------------------------------ | ------- |
+| ![](https://serebii.net/pokearth/sprites/frlg/204.png) | Pineco  |
+| ![](https://serebii.net/pokearth/sprites/frlg/273.png) | Seedot  |
+| ![](https://serebii.net/pokearth/sprites/frlg/190.png) | Aipom   |
 | ![](https://serebii.net/pokearth/sprites/frlg/267.png) | Silcoon |
 | ![](https://serebii.net/pokearth/sprites/frlg/268.png) | Cascoon |
 
 ### Special
 
-|                                                 | Pokemon   | Condition    |
-| ----------------------------------------------- | --------- | ------------ |
+|                                                        | Pokemon   | Condition    |
+| ------------------------------------------------------ | --------- | ------------ |
 | ![](https://serebii.net/pokearth/sprites/frlg/185.png) | Sudowoodo | Watering Can |
