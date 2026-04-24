@@ -3,44 +3,44 @@
 
 |                                                | Pokemon  |
 | ---------------------------------------------- | -------- |
-| ![](../../graphics/pokemon/hoothoot/front.png) | Hoothoot |
-| ![](../../graphics/pokemon/pidgey/front.png)   | Pidgey   |
-| ![](../../graphics/pokemon/murkrow/front.png)  | Murkrow  |
+| ![](https://serebii.net/pokearth/sprites/frlg/163.png) | Hoothoot |
+| ![](https://serebii.net/pokearth/sprites/frlg/16.png)   | Pidgey   |
+| ![](https://serebii.net/pokearth/sprites/frlg/198.png)  | Murkrow  |
 
 ## Rematch 1
 
 |                                               | Pokemon |
 | --------------------------------------------- | ------- |
-| ![](../../graphics/pokemon/noctowl/front.png) | Noctowl |
-| ![](../../graphics/pokemon/pidgeot/front.png) | Pidgeot |
-| ![](../../graphics/pokemon/murkrow/front.png) | Murkrow |
+| ![](https://serebii.net/pokearth/sprites/frlg/164.png) | Noctowl |
+| ![](https://serebii.net/pokearth/sprites/frlg/18.png) | Pidgeot |
+| ![](https://serebii.net/pokearth/sprites/frlg/198.png) | Murkrow |
 
 ## Rematch 2
 
 |                                                | Pokemon  |
 | ---------------------------------------------- | -------- |
-| ![](../../graphics/pokemon/noctowl/front.png)  | Noctowl  |
-| ![](../../graphics/pokemon/pidgeot/front.png)  | Pidgeot  |
-| ![](../../graphics/pokemon/murkrow/front.png)  | Murkrow  |
-| ![](../../graphics/pokemon/pelipper/front.png) | Pelipper |
+| ![](https://serebii.net/pokearth/sprites/frlg/164.png)  | Noctowl  |
+| ![](https://serebii.net/pokearth/sprites/frlg/18.png)  | Pidgeot  |
+| ![](https://serebii.net/pokearth/sprites/frlg/198.png)  | Murkrow  |
+| ![](https://serebii.net/pokearth/sprites/frlg/279.png) | Pelipper |
 
 ## Rematch 3
 
 |                                                | Pokemon  |
 | ---------------------------------------------- | -------- |
-| ![](../../graphics/pokemon/noctowl/front.png)  | Noctowl  |
-| ![](../../graphics/pokemon/pidgeot/front.png)  | Pidgeot  |
-| ![](../../graphics/pokemon/murkrow/front.png)  | Murkrow  |
-| ![](../../graphics/pokemon/pelipper/front.png) | Pelipper |
-| ![](../../graphics/pokemon/xatu/front.png)     | Xatu     |
+| ![](https://serebii.net/pokearth/sprites/frlg/164.png)  | Noctowl  |
+| ![](https://serebii.net/pokearth/sprites/frlg/18.png)  | Pidgeot  |
+| ![](https://serebii.net/pokearth/sprites/frlg/198.png)  | Murkrow  |
+| ![](https://serebii.net/pokearth/sprites/frlg/279.png) | Pelipper |
+| ![](https://serebii.net/pokearth/sprites/frlg/178.png)     | Xatu     |
 
 ## Rematch 4 and On
 
 |                                                | Pokemon  |
 | ---------------------------------------------- | -------- |
-| ![](../../graphics/pokemon/noctowl/front.png)  | Noctowl  |
-| ![](../../graphics/pokemon/pidgeot/front.png)  | Pidgeot  |
-| ![](../../graphics/pokemon/murkrow/front.png)  | Murkrow  |
-| ![](../../graphics/pokemon/pelipper/front.png) | Pelipper |
-| ![](../../graphics/pokemon/xatu/front.png)     | Xatu     |
-| ![](../../graphics/pokemon/altaria/front.png)  | Altaria  |
+| ![](https://serebii.net/pokearth/sprites/frlg/164.png)  | Noctowl  |
+| ![](https://serebii.net/pokearth/sprites/frlg/18.png)  | Pidgeot  |
+| ![](https://serebii.net/pokearth/sprites/frlg/198.png)  | Murkrow  |
+| ![](https://serebii.net/pokearth/sprites/frlg/279.png) | Pelipper |
+| ![](https://serebii.net/pokearth/sprites/frlg/178.png)     | Xatu     |
+| ![](https://serebii.net/pokearth/sprites/frlg/334.png)  | Altaria  |

@@ -11,32 +11,32 @@ Connects to:
 
 |                                                 | Pokemon   |
 | ----------------------------------------------- | --------- |
-| ![](../../graphics/pokemon/sandshrew/front.png) | Sandshrew |
-| ![](../../graphics/pokemon/diglett/front.png)   | Diglett   |
-| ![](../../graphics/pokemon/aron/front.png)      | Aron      |
-| ![](../../graphics/pokemon/paras/front.png)     | Paras     |
-| ![](../../graphics/pokemon/zubat/front.png)     | Zubat     |
-| ![](../../graphics/pokemon/geodude/front.png)   | Geodude   |
-| ![](../../graphics/pokemon/whismur/front.png)   | Whismur   |
+| ![](https://serebii.net/pokearth/sprites/frlg/27.png) | Sandshrew |
+| ![](https://serebii.net/pokearth/sprites/frlg/50.png)   | Diglett   |
+| ![](https://serebii.net/pokearth/sprites/frlg/304.png)      | Aron      |
+| ![](https://serebii.net/pokearth/sprites/frlg/46.png)     | Paras     |
+| ![](https://serebii.net/pokearth/sprites/frlg/41.png)     | Zubat     |
+| ![](https://serebii.net/pokearth/sprites/frlg/74.png)   | Geodude   |
+| ![](https://serebii.net/pokearth/sprites/frlg/293.png)   | Whismur   |
 
 #### Surfing
 |                                                | Pokemon  |
 | ---------------------------------------------- | -------- |
-| ![](../../graphics/pokemon/remoraid/front.png) | Remoraid |
-| ![](../../graphics/pokemon/chinchou/front.png) | Chinchou |
-| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   |
+| ![](https://serebii.net/pokearth/sprites/frlg/223.png) | Remoraid |
+| ![](https://serebii.net/pokearth/sprites/frlg/170.png) | Chinchou |
+| ![](https://serebii.net/pokearth/sprites/frlg/194.png)   | Wooper   |
 
 #### Fishing
 
 |                                                | Pokemon  |
 | ---------------------------------------------- | -------- |
-| ![](../../graphics/pokemon/magikarp/front.png) | Magikarp |
+| ![](https://serebii.net/pokearth/sprites/frlg/129.png) | Magikarp |
 
 #### Rock Smash
 
 |                                               | Pokemon |
 | --------------------------------------------- | ------- |
-| ![](../../graphics/pokemon/geodude/front.png) | Geodude |
+| ![](https://serebii.net/pokearth/sprites/frlg/74.png) | Geodude |
 
 ## B1F
 ### Encounters
@@ -44,32 +44,32 @@ Connects to:
 
 |                                               | Pokemon |
 | --------------------------------------------- | ------- |
-| ![](../../graphics/pokemon/zubat/front.png)   | Zubat   |
-| ![](../../graphics/pokemon/geodude/front.png) | Geodude |
-| ![](../../graphics/pokemon/onix/front.png)    | Onix    |
-| ![](../../graphics/pokemon/aron/front.png)    | Aron    |
-| ![](../../graphics/pokemon/machop/front.png)  | Machop  |
-| ![](../../graphics/pokemon/whismur/front.png) | Whismur |
+| ![](https://serebii.net/pokearth/sprites/frlg/41.png)   | Zubat   |
+| ![](https://serebii.net/pokearth/sprites/frlg/74.png) | Geodude |
+| ![](https://serebii.net/pokearth/sprites/frlg/95.png)    | Onix    |
+| ![](https://serebii.net/pokearth/sprites/frlg/304.png)    | Aron    |
+| ![](https://serebii.net/pokearth/sprites/frlg/66.png)  | Machop  |
+| ![](https://serebii.net/pokearth/sprites/frlg/293.png) | Whismur |
 
 #### Surfing
 
 |                                                | Pokemon  |
 | ---------------------------------------------- | -------- |
-| ![](../../graphics/pokemon/remoraid/front.png) | Remoraid |
-| ![](../../graphics/pokemon/chinchou/front.png) | Chinchou |
-| ![](../../graphics/pokemon/wooper/front.png)   | Wooper   |
+| ![](https://serebii.net/pokearth/sprites/frlg/223.png) | Remoraid |
+| ![](https://serebii.net/pokearth/sprites/frlg/170.png) | Chinchou |
+| ![](https://serebii.net/pokearth/sprites/frlg/194.png)   | Wooper   |
 
 #### Fishing
 
 |                                                | Pokemon  |
 | ---------------------------------------------- | -------- |
-| ![](../../graphics/pokemon/magikarp/front.png) | Magikarp |
+| ![](https://serebii.net/pokearth/sprites/frlg/129.png) | Magikarp |
 
 #### Rock Smash
 
 |                                               | Pokemon |
 | --------------------------------------------- | ------- |
-| ![](../../graphics/pokemon/geodude/front.png) | Geodude |
-| ![](../../graphics/pokemon/aron/front.png)    | Aron    |
+| ![](https://serebii.net/pokearth/sprites/frlg/74.png) | Geodude |
+| ![](https://serebii.net/pokearth/sprites/frlg/304.png)    | Aron    |
 
 ## B2F

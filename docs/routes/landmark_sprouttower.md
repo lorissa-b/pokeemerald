@@ -11,19 +11,19 @@ Connects to:
 
 |                                                  | Pokemon    |
 | ------------------------------------------------ | ---------- |
-| ![](../../graphics/pokemon/bellsprout/front.png) | Bellsprout |
-| ![](../../graphics/pokemon/hoppip/front.png)     | Hoppip     |
-| ![](../../graphics/pokemon/sunkern/front.png)    | Sunkern    |
-| ![](../../graphics/pokemon/paras/front.png)      | Paras      |
-| ![](../../graphics/pokemon/shroomish/front.png)  | Shroomish  |
+| ![](https://serebii.net/pokearth/sprites/frlg/69.png) | Bellsprout |
+| ![](https://serebii.net/pokearth/sprites/frlg/187.png)     | Hoppip     |
+| ![](https://serebii.net/pokearth/sprites/frlg/191.png)    | Sunkern    |
+| ![](https://serebii.net/pokearth/sprites/frlg/46.png)      | Paras      |
+| ![](https://serebii.net/pokearth/sprites/frlg/285.png)  | Shroomish  |
 
 ## Third Floor
 ### Encounters
 
 |                                                  | Pokemon    |
 | ------------------------------------------------ | ---------- |
-| ![](../../graphics/pokemon/bellsprout/front.png) | Bellsprout |
-| ![](../../graphics/pokemon/hoppip/front.png)     | Hoppip     |
-| ![](../../graphics/pokemon/sunkern/front.png)    | Sunkern    |
-| ![](../../graphics/pokemon/paras/front.png)      | Paras      |
-| ![](../../graphics/pokemon/shroomish/front.png)  | Shroomish  |
+| ![](https://serebii.net/pokearth/sprites/frlg/69.png) | Bellsprout |
+| ![](https://serebii.net/pokearth/sprites/frlg/187.png)     | Hoppip     |
+| ![](https://serebii.net/pokearth/sprites/frlg/191.png)    | Sunkern    |
+| ![](https://serebii.net/pokearth/sprites/frlg/46.png)      | Paras      |
+| ![](https://serebii.net/pokearth/sprites/frlg/285.png)  | Shroomish  |

@@ -10,31 +10,31 @@ Connects to:
 
 |                                                 | Pokemon   |
 | ----------------------------------------------- | --------- |
-| ![](../../graphics/pokemon/tentacool/front.png) | Tentacool |
-| ![](../../graphics/pokemon/horsea/front.png)    | Horsea    |
-| ![](../../graphics/pokemon/wingull/front.png)   | Wingull   |
+| ![](https://serebii.net/pokearth/sprites/frlg/72.png) | Tentacool |
+| ![](https://serebii.net/pokearth/sprites/frlg/116.png)    | Horsea    |
+| ![](https://serebii.net/pokearth/sprites/frlg/278.png)   | Wingull   |
 
 ### Fishing
 
 |                                                 | Pokemon   | Rod   |
 | ----------------------------------------------- | --------- | ----- |
-| ![](../../graphics/pokemon/magikarp/front.png)  | Magikarp  | Old   |
-| ![](../../graphics/pokemon/tentacool/front.png) | Tentacool | Old   |
-| ![](../../graphics/pokemon/horsea/front.png)    | Horsea    | Good  |
-| ![](../../graphics/pokemon/krabby/front.png)    | Krabby    | Good  |
-| ![](../../graphics/pokemon/qwilfish/front.png)  | Qwilfish  | Super |
-| ![](../../graphics/pokemon/remoraid/front.png)  | Remoraid  | Super |
+| ![](https://serebii.net/pokearth/sprites/frlg/129.png)  | Magikarp  | Old   |
+| ![](https://serebii.net/pokearth/sprites/frlg/72.png) | Tentacool | Old   |
+| ![](https://serebii.net/pokearth/sprites/frlg/116.png)    | Horsea    | Good  |
+| ![](https://serebii.net/pokearth/sprites/frlg/98.png)    | Krabby    | Good  |
+| ![](https://serebii.net/pokearth/sprites/frlg/211.png)  | Qwilfish  | Super |
+| ![](https://serebii.net/pokearth/sprites/frlg/223.png)  | Remoraid  | Super |
 
 ### Special
 
 |                                                  | Pokemon    | Condition   |
 | ------------------------------------------------ | ---------- | ----------- |
-| ![](../../graphics/pokemon/chikorita/front.png)  | Chikorita  | Starter     |
-| ![](../../graphics/pokemon/cyndaquil/front.png)  | Cyndaquil  | Starter     |
-| ![](../../graphics/pokemon/totodile/front.png)   | Totodile   | Starter     |
-| ![](../../graphics/pokemon/bulbasaur/front.png)  | Bulbasaur  | Champion    |
-| ![](../../graphics/pokemon/charmander/front.png) | Charmander | Champion    |
-| ![](../../graphics/pokemon/squirtle/front.png)   | Squirtle   | Champion    |
-| ![](../../graphics/pokemon/treecko/front.png)    | Treecko    | Champion x2 |
-| ![](../../graphics/pokemon/torchic/front.png)    | Torchic    | Champion x2 |
-| ![](../../graphics/pokemon/mudkip/front.png)     | Mudkip     | Champion x2 |
+| ![](https://serebii.net/pokearth/sprites/frlg/152.png)  | Chikorita  | Starter     |
+| ![](https://serebii.net/pokearth/sprites/frlg/155.png)  | Cyndaquil  | Starter     |
+| ![](https://serebii.net/pokearth/sprites/frlg/158.png)   | Totodile   | Starter     |
+| ![](https://serebii.net/pokearth/sprites/frlg/1.png)  | Bulbasaur  | Champion    |
+| ![](https://serebii.net/pokearth/sprites/frlg/4.png) | Charmander | Champion    |
+| ![](https://serebii.net/pokearth/sprites/frlg/7.png)   | Squirtle   | Champion    |
+| ![](https://serebii.net/pokearth/sprites/frlg/252.png)    | Treecko    | Champion x2 |
+| ![](https://serebii.net/pokearth/sprites/frlg/255.png)    | Torchic    | Champion x2 |
+| ![](https://serebii.net/pokearth/sprites/frlg/258.png)     | Mudkip     | Champion x2 |

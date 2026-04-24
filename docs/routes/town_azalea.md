@@ -11,7 +11,7 @@ Connects to:
 
 |                                               | Pokemon |
 | --------------------------------------------- | ------- |
-| ![](../../graphics/pokemon/pineco/front.png)  | Pineco  |
-| ![](../../graphics/pokemon/paras/front.png)   | Paras   |
-| ![](../../graphics/pokemon/silcoon/front.png) | Silcoon |
-| ![](../../graphics/pokemon/cascoon/front.png) | Cascoon |
+| ![](https://serebii.net/pokearth/sprites/frlg/204.png)  | Pineco  |
+| ![](https://serebii.net/pokearth/sprites/frlg/46.png)   | Paras   |
+| ![](https://serebii.net/pokearth/sprites/frlg/267.png) | Silcoon |
+| ![](https://serebii.net/pokearth/sprites/frlg/268.png) | Cascoon |

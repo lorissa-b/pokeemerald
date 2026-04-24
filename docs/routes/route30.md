@@ -10,44 +10,44 @@ Connects to:
 
 |                                                | Pokemon  | Morn | Day | Eve | Night |
 | ---------------------------------------------- | -------- | ---- | --- | --- | ----- |
-| ![](../../graphics/pokemon/ledyba/front.png)   | Ledyba   | Y    |     |     |       |
-| ![](../../graphics/pokemon/hoppip/front.png)   | Hoppip   | Y    | Y   |     |       |
-| ![](../../graphics/pokemon/sentret/front.png)  | Sentret  | Y    | Y   |     |       |
-| ![](../../graphics/pokemon/pidgey/front.png)   | Pidgey   | Y    | Y   |     |       |
-| ![](../../graphics/pokemon/wurmple/front.png)  | Wurmple  | Y    | Y   |     |       |
-| ![](../../graphics/pokemon/marill/front.png)   | Marill   | Y    | Y   |     |       |
-| ![](../../graphics/pokemon/caterpie/front.png) | Caterpie |      | Y   | Y   |       |
-| ![](../../graphics/pokemon/rattata/front.png)  | Rattata  |      |     | Y   | Y     |
-| ![](../../graphics/pokemon/hoothoot/front.png) | Hoothoot |      |     | Y   | Y     |
-| ![](../../graphics/pokemon/spinarak/front.png) | Spinarak |      |     | Y   | Y     |
-| ![](../../graphics/pokemon/poliwag/front.png)  | Poliwag  |      |     | Y   | Y     |
-| ![](../../graphics/pokemon/weedle/front.png)   | Weedle   |      |     |     | Y     |
-| ![](../../graphics/pokemon/zubat/front.png)    | Zubat    |      |     |     | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/165.png)   | Ledyba   | Y    |     |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/187.png)   | Hoppip   | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/161.png)  | Sentret  | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/16.png)   | Pidgey   | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/265.png)  | Wurmple  | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/183.png)   | Marill   | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/10.png) | Caterpie |      | Y   | Y   |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/19.png)  | Rattata  |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/163.png) | Hoothoot |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/167.png) | Spinarak |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/60.png)  | Poliwag  |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/13.png)   | Weedle   |      |     |     | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/41.png)    | Zubat    |      |     |     | Y     |
 
 ### Surfing
 
 |                                               | Pokemon |
 | --------------------------------------------- | ------- |
-| ![](../../graphics/pokemon/marill/front.png)  | Marill  |
-| ![](../../graphics/pokemon/lotad/front.png)   | Lotad   |
-| ![](../../graphics/pokemon/poliwag/front.png) | Poliwag |
+| ![](https://serebii.net/pokearth/sprites/frlg/183.png)  | Marill  |
+| ![](https://serebii.net/pokearth/sprites/frlg/270.png)   | Lotad   |
+| ![](https://serebii.net/pokearth/sprites/frlg/60.png) | Poliwag |
 
 ### Fishing
 
 |                                                 | Pokemon   | Rod   |
 | ----------------------------------------------- | --------- | ----- |
-| ![](../../graphics/pokemon/magikarp/front.png)  | Magikarp  | Old   |
-| ![](../../graphics/pokemon/wooper/front.png)    | Wooper    | Old   |
-| ![](../../graphics/pokemon/corphish/front.png)  | Corphish  | Good  |
-| ![](../../graphics/pokemon/krabby/front.png)    | Krabby    | Good  |
-| ![](../../graphics/pokemon/poliwhirl/front.png) | Poliwhirl | Super |
-| ![](../../graphics/pokemon/barboach/front.png)  | Barboach  | Super |
+| ![](https://serebii.net/pokearth/sprites/frlg/129.png)  | Magikarp  | Old   |
+| ![](https://serebii.net/pokearth/sprites/frlg/194.png)    | Wooper    | Old   |
+| ![](https://serebii.net/pokearth/sprites/frlg/341.png)  | Corphish  | Good  |
+| ![](https://serebii.net/pokearth/sprites/frlg/98.png)    | Krabby    | Good  |
+| ![](https://serebii.net/pokearth/sprites/frlg/61.png) | Poliwhirl | Super |
+| ![](https://serebii.net/pokearth/sprites/frlg/339.png)  | Barboach  | Super |
 
 ### Headbutt
 
 |                                               | Pokemon |
 | --------------------------------------------- | ------- |
-| ![](../../graphics/pokemon/pineco/front.png)  | Pineco  |
-| ![](../../graphics/pokemon/seedot/front.png)  | Seedot  |
-| ![](../../graphics/pokemon/kakuna/front.png)  | Kakuna  |
-| ![](../../graphics/pokemon/metapod/front.png) | Metapod |
+| ![](https://serebii.net/pokearth/sprites/frlg/204.png)  | Pineco  |
+| ![](https://serebii.net/pokearth/sprites/frlg/273.png)  | Seedot  |
+| ![](https://serebii.net/pokearth/sprites/frlg/14.png)  | Kakuna  |
+| ![](https://serebii.net/pokearth/sprites/frlg/11.png) | Metapod |

@@ -10,14 +10,14 @@ Connects to:
 
 |                                                | Pokemon  | Morn | Day | Eve | Night |
 | ---------------------------------------------- | -------- | ---- | --- | --- | ----- |
-| ![](../../graphics/pokemon/spearow/front.png)  | Spearow  | Y    | Y   | Y   |       |
-| ![](../../graphics/pokemon/sentret/front.png)  | Sentret  | Y    | Y   | Y   |       |
-| ![](../../graphics/pokemon/phanpy/front.png)   | Phanpy   | Y    |     | Y   |       |
-| ![](../../graphics/pokemon/geodude/front.png)  | Geodude  | Y    | Y   | Y   |       |
-| ![](../../graphics/pokemon/hoppip/front.png)   | Hoppip   | Y    | Y   |     |       |
-| ![](../../graphics/pokemon/mankey/front.png)   | Mankey   | Y    | Y   | Y   |       |
-| ![](../../graphics/pokemon/hoothoot/front.png) | Hoothoot |      |     | Y   | Y     |
-| ![](../../graphics/pokemon/rattata/front.png)  | Rattata  |      |     | Y   | Y     |
-| ![](../../graphics/pokemon/zubat/front.png)    | Zubat    |      |     |     | Y     |
-| ![](../../graphics/pokemon/oddish/front.png)   | Oddish   |      |     |     | Y     |
-| ![](../../graphics/pokemon/gastly/front.png)   | Gastly   |      |     |     | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/21.png)  | Spearow  | Y    | Y   | Y   |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/161.png)  | Sentret  | Y    | Y   | Y   |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/231.png)   | Phanpy   | Y    |     | Y   |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/74.png)  | Geodude  | Y    | Y   | Y   |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/187.png)   | Hoppip   | Y    | Y   |     |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/56.png)   | Mankey   | Y    | Y   | Y   |       |
+| ![](https://serebii.net/pokearth/sprites/frlg/163.png) | Hoothoot |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/19.png)  | Rattata  |      |     | Y   | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/41.png)    | Zubat    |      |     |     | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/43.png)   | Oddish   |      |     |     | Y     |
+| ![](https://serebii.net/pokearth/sprites/frlg/92.png)   | Gastly   |      |     |     | Y     |
